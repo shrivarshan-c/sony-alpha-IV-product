@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "063a0e6448123cd359ad0044cc46b0e490cc7964d45ef4bb9fd842bd2ffbca67"
+    },
+    "gsap-awwwards-website": {
+      "source": "eng0ai/eng0-template-skills",
+      "sourceType": "github",
+      "computedHash": "31885704a171d33427eef4d7245a4c4591c35b628f332f68cd9517bc33deb5ad"
+    },
+    "nano-banana-2": {
+      "source": "toolshell/skills",
+      "sourceType": "github",
+      "computedHash": "a919bdc04509cc0e886c8633c51c807e1148d8b7a8e604dd64283e0680d57a73"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "computedHash": "a6a44d5498f7e8f68289902f3dedfc6f38ae0cee1e96527c80724cf27f727c2a"
+    }
+  }
+}
